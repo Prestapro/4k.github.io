@@ -1,0 +1,12 @@
+#
+/index.template.html
+/bower.json
+/package.json
+/server.js
+/webpack.config.js
+#
+build/
+#
+client/
+#
+node_modules/
