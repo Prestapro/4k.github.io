@@ -10,3 +10,5 @@ build/
 client/
 #
 node_modules/
+#
+*.log
