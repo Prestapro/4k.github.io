@@ -4,6 +4,7 @@
 /package.json
 /server.js
 /webpack.config.js
+/.gitignore
 #
 build/
 #
